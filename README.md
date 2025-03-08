@@ -1,6 +1,8 @@
 # **Recipe Finder**  
 A simple and intuitive **recipe search application** that allows users to explore various meals, filter by category or cuisine, and discover new recipes using **TheMealDB API**.  
 
+![Alt Text](public\website.png)
+
 ## **Features**  
 
 ### **Search Recipes by Name or Ingredient**  
@@ -26,14 +28,14 @@ A simple and intuitive **recipe search application** that allows users to explor
 
 ---
 
-## **🛠️ Technologies Used**  
+## **Technologies Used**  
 - **React** (Hooks, Context API)  
 - **Tailwind CSS** (for styling)  
 - **TheMealDB API** (for recipe data)  
 
 ---
 
-## **📌 Getting Started**  
+## **Getting Started**  
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/WaldorfChristianManalili/RecipeFinder.git
@@ -51,13 +53,13 @@ A simple and intuitive **recipe search application** that allows users to explor
 
 ---
 
-## **🔗 API Information**  
+## **API Information**  
 - This project uses **TheMealDB API** to fetch recipe data.  
 **[TheMealDB API Documentation](https://www.themealdb.com/api.php)**  
 
 ---
 
-## **🌟 Future Enhancements**  
+## **Future Enhancements**  
 - Save favorite recipes  
 - Create meal plans  
 - Add nutrition information  
