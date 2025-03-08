@@ -1,7 +1,7 @@
 # **Recipe Finder**  
 A simple and intuitive **recipe search application** that allows users to explore various meals, filter by category or cuisine, and discover new recipes using **TheMealDB API**.  
 
-![Alt Text](public\website.png)
+![Alt Text](public/website.png)
 
 ## **Features**  
 
